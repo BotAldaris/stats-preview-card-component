@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Stats preview card component solution
 
 Essa é minha solução para o desafio [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges ajuda você a melhorar as suas habilidades com desafios parecidos com a realidade
 
