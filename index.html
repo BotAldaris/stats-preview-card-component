@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Frontend Mentor | Stats preview card component</title>
+  </head>
+  <body>
+    <main class="conteiner">
+      <div class="image__background">
+        <picture>
+          <source
+            media="(min-width: 600px)"
+            srcset="./images/image-header-desktop.jpg"
+          />
+          <img
+            src="./images/image-header-mobile.jpg"
+            alt=""
+            class="image"
+            width="540"
+            height="446"
+          />
+        </picture>
+      </div>
+
+      <div class="content">
+        <h1 class="content__title">
+          Get <span class="content__title__insights">insights</span> that help
+          your business grow.
+        </h1>
+        <p class="content__text">
+          Discover the benefits of data analytics and make better decisions
+          regarding revenue, customer experience, and overall efficiency.
+        </p>
+        <div class="content__status">
+          <div>
+            <h2 class="content__status__heading">10k+</h2>
+            <p class="content__status__description">companies</p>
+          </div>
+          <div>
+            <h2 class="content__status__heading">314</h2>
+            <p class="content__status__description">templates</p>
+          </div>
+          <div>
+            <h2 class="content__status__heading">12m+</h2>
+            <p class="content__status__description">queries</p>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer class="attribution">
+      Challenge by
+      <a
+        href="https://www.frontendmentor.io?ref=challenge"
+        target="_blank"
+        rel="noopener"
+        >Frontend Mentor</a
+      >. Coded by
+      <a href="https://github.com/BotAldaris" target="_blank" rel="noopener"
+        >Gabriel Lima da Silva</a
+      >.
+    </footer>
+  </body>
+</html>
