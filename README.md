@@ -28,8 +28,8 @@ Os usuários devem ser capazes:
 
 ### Links
 
-- URL da Solução: [Solução](https://github.com/BotAldaris/stats-preview--card-component)
-- Live Site URL: [Live url](https://botaldaris.github.io/stats-preview--card-component/)
+- URL da Solução: [Solução](https://github.com/BotAldaris/stats-preview-card-component)
+- Live Site URL: [Live url](https://botaldaris.github.io/stats-preview-card-component/)
 
 ### Tecnologias usadas
 
